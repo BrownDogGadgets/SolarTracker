@@ -1,0 +1,14 @@
+Reference,Value,Footprint,Count,Datasheet,Package,MF_Name,MF_PN,S1_Name,S1_PN,Description,Verified
+U5,ARDUINO-101-SHIELD,Wickerlib:ARDUINO-101-SHIELD,1,https://www.adafruit.com/products/3033,ARDU-101SHIELD,Arduino,UNO R3,Adafruit,50,ARDUINO 101 SHIELD,Not Verified
+J2,SERVO,Wickerlib:CONN-HEADER-STRAIGHT-P2.54MM-1x03,1,https://cdn.harwin.com/pdfs/60page140.pdf,Pin_Header_Straight_1x03,Harwin,M20-9992046,Digikey,952-1902-ND,HEADER MALE 3POS TH 1x03 0.1”,Not Verified
+J3,SERVO,Wickerlib:CONN-HEADER-STRAIGHT-P2.54MM-1x03,1,https://cdn.harwin.com/pdfs/60page140.pdf,Pin_Header_Straight_1x03,Harwin,M20-9992046,Digikey,952-1902-ND,HEADER MALE 3POS TH 1x03 0.1”,Not Verified
+R5,PHOTOCELL,Wickerlib:PHOTOCELL-5.1MM,1,http://advancedphotonix.com/wp-content/uploads/PDV-P8001.pdf,PHOTOCELL-5.1MM,Luna Opto,PDV-P8001,Digikey,PDV-P8001-ND,PHOTOCELL 3K-11K OHM 5.10MM,Not Verified
+R1,PHOTOCELL,Wickerlib:PHOTOCELL-5.1MM,1,http://advancedphotonix.com/wp-content/uploads/PDV-P8001.pdf,PHOTOCELL-5.1MM,Luna Opto,PDV-P8001,Digikey,PDV-P8001-ND,PHOTOCELL 3K-11K OHM 5.10MM,Not Verified
+R2,10K,Wickerlib:RES-CARBONFILM-7MM,1,http://www.seielect.com/catalog/SEI-CF_CFM.pdf,Resistor_Horizontal_RM7mm,Stackpole,CFM14JT10K0,Digikey,S10KQCT-ND,RES 10K OHM 1/4W 5% CF MINI,Not Verified
+R6,10K,Wickerlib:RES-CARBONFILM-7MM,1,http://www.seielect.com/catalog/SEI-CF_CFM.pdf,Resistor_Horizontal_RM7mm,Stackpole,CFM14JT10K0,Digikey,S10KQCT-ND,RES 10K OHM 1/4W 5% CF MINI,Not Verified
+R4,10K,Wickerlib:RES-CARBONFILM-7MM,1,http://www.seielect.com/catalog/SEI-CF_CFM.pdf,Resistor_Horizontal_RM7mm,Stackpole,CFM14JT10K0,Digikey,S10KQCT-ND,RES 10K OHM 1/4W 5% CF MINI,Not Verified
+R8,10K,Wickerlib:RES-CARBONFILM-7MM,1,http://www.seielect.com/catalog/SEI-CF_CFM.pdf,Resistor_Horizontal_RM7mm,Stackpole,CFM14JT10K0,Digikey,S10KQCT-ND,RES 10K OHM 1/4W 5% CF MINI,Not Verified
+R3,PHOTOCELL,Wickerlib:PHOTOCELL-5.1MM,1,http://advancedphotonix.com/wp-content/uploads/PDV-P8001.pdf,PHOTOCELL-5.1MM,Luna Opto,PDV-P8001,Digikey,PDV-P8001-ND,PHOTOCELL 3K-11K OHM 5.10MM,Not Verified
+R7,PHOTOCELL,Wickerlib:PHOTOCELL-5.1MM,1,http://advancedphotonix.com/wp-content/uploads/PDV-P8001.pdf,PHOTOCELL-5.1MM,Luna Opto,PDV-P8001,Digikey,PDV-P8001-ND,PHOTOCELL 3K-11K OHM 5.10MM,Not Verified
+J1,TO LDR BOARD,Wickerlib:CONN-ONSHORE-SCREW-GREEN-5PIN-TH,1,http://www.on-shore.com/sites/default/files/manuals/ostvnxxa150.pdf,OSTVN05A150,OnShoreTech,OSTVN05A150,Digikey,ED10564-ND,CONN TERM SCREW GREEN 2.54MM 5POS TH,Not Verified
+J4,TO SOLAR SHIELD,Wickerlib:CONN-ONSHORE-SCREW-GREEN-5PIN-TH,1,http://www.on-shore.com/sites/default/files/manuals/ostvnxxa150.pdf,OSTVN05A150,OnShoreTech,OSTVN05A150,Digikey,ED10564-ND,CONN TERM SCREW GREEN 2.54MM 5POS TH,Not Verified
