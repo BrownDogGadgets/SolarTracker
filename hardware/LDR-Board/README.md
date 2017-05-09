@@ -1,14 +1,13 @@
 <!--- start title --->
-# Solar Tracker Light Sensing Board v1.1
+# Solar Tracker Light Sensing Board v1.2
 
 Updated: 8 May 2017
-
 - Website: http://browndoggadgets.com/
 - Company: Brown Dog Gadgets
 - License: All rights reserved.
 <!--- end title --->
 
-This photocell board board sits on the tracker itself.
+This photocell board board sits on the tracker itself. This version adds a second 0.2" unplated screw hole.
 
 <!--- bom start --->
 ### Bill of Materials
