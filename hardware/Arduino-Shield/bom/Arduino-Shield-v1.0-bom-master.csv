@@ -1,0 +1,5 @@
+Ref,Qty,Footprint,Footprint Library,Symbol,Symbol Library,Datasheet,MF_Name,MF_PN,S1_Name,S1_PN,Type
+J1 J2,2,CONN-HEADER-STRAIGHT-P2.54MM-1x03,Wickerlib,HEADER-MALE-3POS-TH-1x03-P0.1IN,wickerlib,https://cdn.harwin.com/pdfs/60page140.pdf,Harwin,M20-9992046,Digikey,952-1902-ND,
+J3,1,CONN-ONSHORE-SCREW-GREEN-5PIN-TH,Wickerlib,CONN-TERM-SCREW-GREEN-2.54MM-5POS-TH,wickerlib,http://www.on-shore.com/sites/default/files/manuals/ostvnxxa150.pdf,OnShoreTech,OSTVN05A150,Digikey,ED10564-ND,
+R1 R2 R3 R4,4,RES-CARBONFILM-7MM,Wickerlib,RES-10K-5%-1/4W-TH-CFMINI,wickerlib,http://www.seielect.com/catalog/SEI-CF_CFM.pdf,Stackpole,CFM14JT10K0,Digikey,S10KQCT-ND,
+U1,1,ARDUINO-UNO-SHIELD,Wickerlib,ARDUINO-UNO-SHIELD,wickerlib,https://www.adafruit.com/products/50,Sullins,PREC026SAAN-RC,Digikey,S1012EC-26-ND,

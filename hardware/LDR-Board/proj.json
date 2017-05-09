@@ -1,0 +1,22 @@
+{
+    "bom_dir":"bom",
+    "company":"Brown Dog Gadgets",
+    "date_create":"08 May 2017",
+    "date_update":"8 May 2017",
+    "description":"",
+    "email":"help@browndoggadgets.com",
+    "gerbers_dir":"gerbers",
+    "lib_dir":"/home/wicker/proj/CrazyCircuits/Development/library/",
+    "license":"All rights reserved.",
+    "projname":"LDR-Board",
+    "template_dir":"/home/wicker/wickerlib/templates",
+    "template_kicad":"crazy",
+    "template_latex":"browndog.tex",
+    "title":"Solar Tracker Light Sensing Board",
+    "version":"1.1",
+    "website":"http://browndoggadgets.com/",
+    "width_assembly_png":"60",
+    "width_other_png":"50",
+    "width_preview_png":"70",
+    "width_schematic_png":"90"
+}
