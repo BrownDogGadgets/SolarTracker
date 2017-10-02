@@ -4,7 +4,7 @@ The laser cut files use both 1/4th and 1/8th thickness wood.  Majority of screws
 
 # Solar Tracker Shield and LDR Board
 
-[Solar Tracker Shield](hardware/Arduino-Shield) is a half-size Arduino Uno board with a screw terminal connector. 
+[Solar Tracker Shield](hardware/Arduino-Shield) is a half-size Arduino Uno board with male pin headers for Servos and a Ribbon Cable. 
 
 [The Light-Detecting Resistor (LDR) Board](hardware/LDR-Board) is a board with four photocells and a matching screw terminal connector. 
 
