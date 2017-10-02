@@ -2,6 +2,8 @@
 
 Files and Resources for our Dual and Single Axis Solar Smart Trackers as well as our Single Axis "Dumb" Tracker.
 
+<img src="DualAxisV1.jpg">
+
 # Overview
 
 The idea behind these projects was to create a beginner level activity that had a real world application.  The Dual Axis Tracker used a common Arduino Uno and a Sensor Shield to move two servos and follow the light.  We took inspriation and code from existing solar tracking projects on instuctables.com and provided a more useful laser cut body.
