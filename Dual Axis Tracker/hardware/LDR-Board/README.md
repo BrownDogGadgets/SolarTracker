@@ -1,7 +1,7 @@
 <!--- start title --->
-# Solar Tracker Light Sensing Board v1.2
+# Solar Tracker Light Sensing Board v1.3
 
-Updated: 8 May 2017
+- Updated: 9 Feb 2018
 - Website: http://browndoggadgets.com/
 - Company: Brown Dog Gadgets
 - License: All rights reserved.
