@@ -1,8 +1,8 @@
 <!--- start title --->
-# Solar Tracker Arduino Nano Board v1.0
+# Solar Tracker Arduino Nano Board v1.5
 A Lego-compatible Crazy Circuits module
 
-- Updated: 20 Mar 2018
+- Updated: 21 Mar 2018
 
 - Website: http://browndoggadgets.com/
 - Company: Brown Dog Gadgets
@@ -24,7 +24,8 @@ This is the main board that sits on the Arduino, reads in the light sensors, and
 
 <!--- bom end --->
 
+![Schematic](schematic.png)
+
 ![Assembly Diagram](assembly.png)
 
 ![Gerber Preview](preview.png)
-

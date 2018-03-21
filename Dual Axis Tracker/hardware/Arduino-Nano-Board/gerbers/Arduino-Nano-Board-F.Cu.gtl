@@ -1,10 +1,10 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,4.0.7-e2-6376~58~ubuntu16.04.1*%
-%TF.CreationDate,2018-03-20T08:58:16-07:00*%
-%TF.ProjectId,Arduino-Nano-Board,41726475696E6F2D4E616E6F2D426F61,1.0*%
+%TF.CreationDate,2018-03-21T07:26:21-07:00*%
+%TF.ProjectId,Arduino-Nano-Board,41726475696E6F2D4E616E6F2D426F61,v1.5*%
 %TF.FileFunction,Copper,L1,Top,Signal*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 4.0.7-e2-6376~58~ubuntu16.04.1) date Tue Mar 20 08:58:16 2018*
+G04 Created by KiCad (PCBNEW 4.0.7-e2-6376~58~ubuntu16.04.1) date Wed Mar 21 07:26:21 2018*
 %MOMM*%
 %LPD*%
 G01*
