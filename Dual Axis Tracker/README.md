@@ -2,7 +2,7 @@
 
 ## Hardware
 
-The laser cut files use both 1/4th and 1/8th thickness wood.  Majority of screws are 3/4th inch 8-32 pan screws, one half inch 8-32 screw, one 2.5 inch 8-32 screw, along with four Number 2 wood screws to mount the servo horns, and two M3 screws to mount the Arduino Uno.  Rubber feet are necessary for the bottom of the base.
+Majority of screws are 3/4th inch 8-32 pan screws, one half inch 8-32 screw, one 2.5 inch 8-32 screw, along with four Number 2 wood screws to mount the servo horns, and two M3 screws to mount the Arduino Uno.  Rubber feet are necessary for the bottom of the base.
 
 ## Laser Cut Files
 
