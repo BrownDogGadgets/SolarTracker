@@ -20,9 +20,9 @@ Make the following connections between the two servos and the Shield.
 |Horizontal Servo|D5|
 |Vertical Servo|D6|
 
-Power the Arduino, either with a USB cable or using the barrle jack.
+Power the Arduino, either with a USB cable or using the barrel jack.
 
-Power the Shield with an external 3 AA battery pack connected to the screw terminals on the Shield.
+Power the Shield with an external 3 AA battery pack connected to the screw terminals on the Shield. This provides power to the servos so the tracker can move.
 
 
 
