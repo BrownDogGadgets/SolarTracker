@@ -24,3 +24,6 @@ Power the Arduino, either with a USB cable or using the barrle jack.
 
 Power the Shield with an external 3 AA battery pack connected to the screw terminals on the Shield.
 
+
+
+
