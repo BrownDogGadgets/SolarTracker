@@ -2,7 +2,7 @@
 
 Files and Resources for our Dual and Single Axis Solar Smart Trackers as well as our Single Axis "Dumb" Tracker.
 
-<img src="DualAxisV1.jpg">
+![](DualAxisV1.jpg)
 
 # Overview
 
