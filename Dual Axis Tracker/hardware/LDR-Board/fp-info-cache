@@ -1,4 +1,4 @@
-19029294692299385
+19030918658296963
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -55096,6 +55096,13 @@ pin header
 0
 5
 5
+LDR-Board
+PHOTOCELL-5.1MM
+Through hole pin header
+pin header
+0
+2
+2
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
