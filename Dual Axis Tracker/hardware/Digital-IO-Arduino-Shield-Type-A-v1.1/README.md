@@ -2,7 +2,7 @@
 
 ![](digital-io-shield.jpg)
 
-The [Digital IO Shield](hardware/Digital-IO-Arduino-Shield-Type-A-v1.1) is a general purpose Arduino shield and replaces the old version of the Solar Tracker Shield. If you are using the this version of the Solar Tracker Shield you will need to use the Arduino sketch `Dual_Axis_Tracker_V3.ino`
+The [Digital IO Shield] is a general purpose Arduino shield and replaces the old version of the Solar Tracker Shield. If you are using the this version of the Solar Tracker Shield you will need to use the Arduino sketch `Dual_Axis_Tracker_V3.ino`
 
 Make the following connections between the LDR Board and the Shield.
 
