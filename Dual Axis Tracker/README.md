@@ -22,7 +22,7 @@ The Arduino sketch `Servo_Set_Mid.ino` will set both servos to the 90 degree (mi
 
 ## Hardware
 
-The majority of screws are 3/4th inch 8-32 pan head screws, one half inch 8-32 screw, one 2.5 inch 8-32 screw, along with four #2 wood screws to mount the servo horns, and two M3 screws to mount the Arduino Uno.  Rubber feet are necessary for the bottom of the base.
+The majority of screws are 3/4th inch 8-32 pan head screws, one 1/2th inch 8-32 screw, one 2-1/2th inch 8-32 screw, along with four #2 wood screws to mount the servos, two M3 screws to mount the Arduino Uno, and two M3 screws to mount the battery holder. Rubber feet are necessary for the bottom of the base.
 
 ## Laser Cut Files
 
