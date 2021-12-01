@@ -1,6 +1,6 @@
 # Solar Tracker
 
-Files and Resources for our Dual and Single Axis Solar Smart Trackers as well as our Single Axis "Dumb" Tracker.
+Files and Resources for our Dual Axis Solar Smart Tracker as well as our Single Axis "Dumb" Tracker.
 
 ![Solar Tracker v3](./Images/Solar-Tracker-v3.jpg)
 
