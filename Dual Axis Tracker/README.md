@@ -1,4 +1,6 @@
-# Dual Axis Solar Tracker V2
+# Dual Axis Solar Tracker V3
+
+For a full build guide visit: https://browndoggadgets.dozuki.com/Guide/Dual+Axis+Solar+Tracker+3.0/382
 
 ## Solar Tracker Shield and LDR Board
 
