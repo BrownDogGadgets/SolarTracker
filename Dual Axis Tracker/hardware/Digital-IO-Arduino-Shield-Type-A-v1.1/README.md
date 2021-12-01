@@ -1,8 +1,9 @@
 # Digital IO Arduino Shield Type A v1.1
 
-![](digital-io-shield.jpg)
+![Digital IO Shield](Digital-IO-Shield.jpg)
 
-The [Digital IO Shield] is a general purpose Arduino shield and replaces the old version of the Solar Tracker Shield. If you are using the this version of the Solar Tracker Shield you will need to use the Arduino sketch `Dual_Axis_Tracker_V3.ino`
+
+The **Digital IO Shield** is a general purpose Arduino shield and replaces the old version of the Solar Tracker Shield. Any Solar Tracker sold after October 2021 will use the Digital IO Shield and will require that you use the Arduino sketch `Dual_Axis_Tracker_V3.ino`
 
 Make the following connections between the LDR Board and the Shield.
 
@@ -22,7 +23,7 @@ Make the following connections between the two servos and the Shield.
 
 Power the Arduino, either with a USB cable or using the barrel jack.
 
-Power the Shield with an external 3 AA battery pack connected to the screw terminals on the Shield. This provides power to the servos so the tracker can move.
+Power the Shield with an external 3 AAA battery pack connected to the screw terminals on the Shield. This provides power to the servos so the tracker can move.
 
 
 
