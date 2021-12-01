@@ -12,7 +12,7 @@ The new (as of October 2021) [Digital IO Shield](hardware/Digital-IO-Arduino-Shi
 
 Both of the shields work with the Arduino Uno board and have male pin headers for connecting the servos and light detecting resistors (via female jumper wires).
 
-![Solar Tracker Boards](./images/Solar-Tracker-Boards.jpg)
+![Solar Tracker Boards](./Images/Solar-Tracker-Boards.jpg)
 
 ## Test and Setup of Servos
 
