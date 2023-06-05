@@ -1,10 +1,9 @@
 /*
- * Dual Axis Tracker
+ * Dual_Axis_Tracker_V3.ino
  *
  * Brown Dog Gadgets <https://www.browndoggadgets.com/>
  * 
  */
-
 
 // include Servo library
 #include <Servo.h>
