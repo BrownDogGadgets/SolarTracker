@@ -1,7 +1,7 @@
 /*
  * Dual_Axis_Tracker_V2.ino
  *
- * NOTE: You probably want V3: https://github.com/BrownDogGadgets/SolarTracker/blob/master/Dual%20Axis%20Tracker/Dual_Axis_Tracker_V3.ino
+ * NOTE: You may want V3: https://github.com/BrownDogGadgets/SolarTracker/blob/master/Dual%20Axis%20Tracker/Dual_Axis_Tracker_V3.ino
  *
  */
  
